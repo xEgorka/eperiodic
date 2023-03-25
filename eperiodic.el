@@ -70,7 +70,7 @@ being shown in order."
   :group 'eperiodic
   :type 'integer)
 
-(defcustom eperiodic-element-display-width 3
+(defcustom eperiodic-element-display-width 2
   "*Width each element is displayed with.
 Note that a minimum value of 3 is enforced."
   :group 'eperiodic
@@ -4285,28 +4285,32 @@ Each car is an atomic number and each cdr a list of isotope properties
 
 ;;;###autoload
 (defun eperiodic ()
-  "Display the periodic table of the elements in its own buffer."
+  "Display the periodic table of the elements in its own buffer.
+If in periodic already then go back."
   (interactive)
-  (cond
-   ((buffer-live-p (get-buffer "*EPeriodic*"))
-    (set-buffer "*EPeriodic*"))
-   (t
-    (set-buffer (get-buffer-create "*EPeriodic*"))
-    (eperiodic-mode)
-    (setq buffer-read-only t)
-    (setq truncate-lines t)))
-  ;; Workhorse function
-  (eperiodic-display)
-  (set-buffer-modified-p nil)
-  (select-window (display-buffer (current-buffer)))
-  (delete-other-windows))
+  (if (string-equal (buffer-name) "*EPeriodic*")
+      (switch-to-buffer (other-buffer))
+    (progn
+      (cond
+       ((buffer-live-p (get-buffer "*EPeriodic*"))
+        (set-buffer "*EPeriodic*"))
+       (t
+        (set-buffer (get-buffer-create "*EPeriodic*"))
+        (eperiodic-mode)
+        (setq buffer-read-only t)
+        (setq truncate-lines t)))
+      ;; Workhorse function
+      (eperiodic-display)
+      (set-buffer-modified-p nil)
+      (select-window (display-buffer (current-buffer)))
+      (delete-other-windows))))
 
 ;; Functions
 
 (defun eperiodic-insert-table ()
   "Insert periodic table into the current buffer.
 Any previous buffer contents are deleted."
-  (let ((display-width (max eperiodic-element-display-width 3))
+  (let ((display-width (max eperiodic-element-display-width 2))
         (indentation (max eperiodic-display-indentation 0))
         (inhibit-read-only t)
         (max-width 0)
