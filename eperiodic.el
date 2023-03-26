@@ -229,13 +229,13 @@ initialization.")
 
 (defface eperiodic-group-number-face
   '((((class color))
-     (:inherit eperiodic-generic-block-face :bold t :foreground "purple")))
+     (:inherit eperiodic-generic-block-face :bold t :foreground "orange red")))
   "Face used for group numbers."
   :group 'eperiodic)
 
 (defface eperiodic-period-number-face
   '((((class color))
-     (:bold t :foreground "purple")))
+     (:bold t :foreground "orange red")))
   "Face used for group numbers."
   :group 'eperiodic)
 
@@ -261,29 +261,29 @@ The properties of this face are inherited by others."
 
 (defface eperiodic-s-block-face
   '((((class color))
-     (:inherit eperiodic-generic-block-face :background "blue2" :foreground "white")))
+     (:inherit eperiodic-generic-block-face :background "red1" :foreground "black")))
   "Eperiodic face for s-block elements."
   :group 'eperiodic)
 
 (defface eperiodic-p-block-face
   '((((class color))
-     (:inherit eperiodic-generic-block-face :background "yellow" :foreground "black")))
+     (:inherit eperiodic-generic-block-face :background "gold" :foreground "black")))
   "Eperiodic face for p-block elements."
   :group 'eperiodic)
 
 (defface eperiodic-d-block-face
   '((((class color) (background light))
-     (:inherit eperiodic-generic-block-face :background "red" :foreground "black"))
+     (:inherit eperiodic-generic-block-face :background "dodger blue" :foreground "black"))
     (((class color) (background dark))
-     (:inherit eperiodic-generic-block-face :background "red" :foreground "white")))
+     (:inherit eperiodic-generic-block-face :background "dodger blue" :foreground "black")))
   "Eperiodic face for d-block elements."
   :group 'eperiodic)
 
 (defface eperiodic-f-block-face
   '((((class color) (background light))
-     (:inherit eperiodic-generic-block-face :background "green" :foreground "black"))
+     (:inherit eperiodic-generic-block-face :background "lawn green" :foreground "black"))
     (((class color) (background dark))
-     (:inherit eperiodic-generic-block-face :background "green2" :foreground "black")))
+     (:inherit eperiodic-generic-block-face :background "lawn green" :foreground "black")))
   "Eperiodic face for f-block elements."
   :group 'eperiodic)
 
