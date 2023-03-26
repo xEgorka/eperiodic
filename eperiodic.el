@@ -156,7 +156,7 @@ atomic name."
     eperiodic-colour-element-by-lattice-constant
     eperiodic-colour-element-by-lattice-c/a-ratio)
   "List of functions that use `eperiodic-colour-element-generic'.")
-    
+
 (defvar eperiodic-colour-element-functions
   (nconc
    '(eperiodic-colour-element-by-group
@@ -634,7 +634,7 @@ Units are also listed here.")
      (discovery-date . "1895 (Scotland/Sweden)")
      (discovered-by . "Sir William Ramsey, Nils Langet, P.T.Cleve")
      (named-after . "Greek: helios (sun)."))
-    
+
     (3
      (name . "Lithium")
      (symbol . "Li")
@@ -661,7 +661,7 @@ Units are also listed here.")
      (discovery-date . "1817 (Sweden)")
      (discovered-by . "Johann Arfwedson")
      (named-after . "Greek: lithos (stone)."))
-    
+
     (4
      (name . "Beryllium")
      (symbol . "Be")
@@ -688,7 +688,7 @@ Units are also listed here.")
      (discovery-date . "1798 (Germany/France)")
      (discovered-by . "Fredrich Wöhler, A.A.Bussy")
      (named-after . "Greek: beryllos, 'beryl' (a mineral)."))
-    
+
     (5
      (name . "Boron")
      (symbol . "B")
@@ -715,7 +715,7 @@ Units are also listed here.")
      (discovery-date . "1808 (England/France)")
      (discovered-by . "Sir H. Davy, J.L. Gay-Lussac, L.J. Thénard")
      (named-after . "The Arabic and Persian words for borax."))
-    
+
     (6
      (name . "Carbon")
      (symbol . "C")
@@ -742,7 +742,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients")
      (named-after . "Latin: carbo, (charcoal)."))
-    
+
     (7
      (name . "Nitrogen")
      (symbol . "N")
@@ -769,7 +769,7 @@ Units are also listed here.")
      (discovery-date . "1772 (Scotland)")
      (discovered-by . "Daniel Rutherford")
      (named-after . "Greek: nitron and genes, (soda forming)."))
-    
+
     (8
      (name . "Oxygen")
      (symbol . "O")
@@ -796,7 +796,7 @@ Units are also listed here.")
      (discovery-date . "1774 (England/Sweden)")
      (discovered-by . "Joseph Priestly, Carl Wilhelm Scheele")
      (named-after . "Greek: oxys and genes, (acid former)."))
-    
+
     (9
      (name . "Fluorine")
      (symbol . "F")
@@ -823,7 +823,7 @@ Units are also listed here.")
      (discovery-date . "1886 (France)")
      (discovered-by . "Henri Moissan")
      (named-after . "Latin: fluere (flow)."))
-    
+
     (10
      (name . "Neon")
      (symbol . "Ne")
@@ -850,7 +850,7 @@ Units are also listed here.")
      (discovery-date . "1898 (England)")
      (discovered-by . "Sir William Ramsey, M.W. Travers")
      (named-after . "Greek: neos (new)."))
-    
+
     (11
      (name . "Sodium")
      (symbol . "Na")
@@ -877,7 +877,7 @@ Units are also listed here.")
      (discovery-date . "1807 (England)")
      (discovered-by . "Sir Humphrey Davy")
      (named-after . "Medieval Latin: sodanum, (headache remedy); symbol from Latin natrium, (sodium carbonate)."))
-    
+
     (12
      (name . "Magnesium")
      (symbol . "Mg")
@@ -904,7 +904,7 @@ Units are also listed here.")
      (discovery-date . "1808 (England)")
      (discovered-by . "Sir Humphrey Davy")
      (named-after . "Magnesia, ancient city in district of Thessaly, Greece."))
-    
+
     (13
      (name . "Aluminum")
      (symbol . "Al")
@@ -931,7 +931,7 @@ Units are also listed here.")
      (discovery-date . "1825 (Denmark)")
      (discovered-by . "Hans Christian Oersted")
      (named-after . "Latin: alumen, aluminis, (alum)."))
-    
+
     (14
      (name . "Silicon")
      (symbol . "Si")
@@ -958,7 +958,7 @@ Units are also listed here.")
      (discovery-date . "1824 (Sweden)")
      (discovered-by . "Jöns Berzelius")
      (named-after . "Latin: silex, silicus, (flint)."))
-    
+
     (15
      (name . "Phosphorus")
      (symbol . "P")
@@ -985,7 +985,7 @@ Units are also listed here.")
      (discovery-date . "1669 (Germany)")
      (discovered-by . "Hennig Brand")
      (named-after . "Greek: phosphoros, (bringer of light)."))
-    
+
     (16
      (name . "Sulfur")
      (symbol . "S")
@@ -1012,7 +1012,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Latin: sulphur (brimstone)."))
-    
+
     (17
      (name . "Chlorine")
      (symbol . "Cl")
@@ -1039,7 +1039,7 @@ Units are also listed here.")
      (discovery-date . "1774 (Sweden)")
      (discovered-by . "Carl Wilhelm Scheele")
      (named-after . "Greek: chlôros (greenish yellow)."))
-    
+
     (18
      (name . "Argon")
      (symbol . "Ar")
@@ -1066,7 +1066,7 @@ Units are also listed here.")
      (discovery-date . "1894 (Scotland)")
      (discovered-by . "Sir William Ramsey, Baron Rayleigh")
      (named-after . "Greek: argos (inactive)."))
-    
+
     (19
      (name . "Potassium")
      (symbol . "K")
@@ -1093,7 +1093,7 @@ Units are also listed here.")
      (discovery-date . "1807 (England)")
      (discovered-by . "Sir Humphrey Davy")
      (named-after . "English: pot ash; symbol from Latin: kalium, (alkali)."))
-    
+
     (20
      (name . "Calcium")
      (symbol . "Ca")
@@ -1120,7 +1120,7 @@ Units are also listed here.")
      (discovery-date . "1808 (England)")
      (discovered-by . "Sir Humphrey Davy")
      (named-after . "Latin: calx, calcis (lime)."))
-    
+
     (21
      (name . "Scandium")
      (symbol . "Sc")
@@ -1147,7 +1147,7 @@ Units are also listed here.")
      (discovery-date . "1879 (Sweden)")
      (discovered-by . "Lars Nilson")
      (named-after . "Latin: Scandia, Scandinavia."))
-    
+
     (22
      (name . "Titanium")
      (symbol . "Ti")
@@ -1174,7 +1174,7 @@ Units are also listed here.")
      (discovery-date . "1791 (England)")
      (discovered-by . "William Gregor")
      (named-after . "Greek: titanos (Titans)."))
-    
+
     (23
      (name . "Vanadium")
      (symbol . "V")
@@ -1201,7 +1201,7 @@ Units are also listed here.")
      (discovery-date . "1830 (Sweden)")
      (discovered-by . "Nils Sefström")
      (named-after . "The scandinavian goddess, Vanadis."))
-    
+
     (24
      (name . "Chromium")
      (symbol . "Cr")
@@ -1228,7 +1228,7 @@ Units are also listed here.")
      (discovery-date . "1797 (France)")
      (discovered-by . "Louis Vauquelin")
      (named-after . "Greek: chrôma (color)."))
-    
+
     (25
      (name . "Manganese")
      (symbol . "Mn")
@@ -1255,7 +1255,7 @@ Units are also listed here.")
      (discovery-date . "1774 (Sweden)")
      (discovered-by . "Johann Gahn")
      (named-after . "Latin: magnes (magnet); Italian: manganese."))
-    
+
     (26
      (name . "Iron")
      (symbol . "Fe")
@@ -1282,7 +1282,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Anglo-Saxon: iron; symbol from Latin: ferrum (iron)."))
-    
+
     (27
      (name . "Cobalt")
      (symbol . "Co")
@@ -1309,7 +1309,7 @@ Units are also listed here.")
      (discovery-date . "1739 (Sweden)")
      (discovered-by . "George Brandt")
      (named-after . "German: kobold (goblin)."))
-    
+
     (28
      (name . "Nickel")
      (symbol . "Ni")
@@ -1336,7 +1336,7 @@ Units are also listed here.")
      (discovery-date . "1751 (Sweden)")
      (discovered-by . "Axel Cronstedt")
      (named-after . "German: kupfernickel (false copper)."))
-    
+
     (29
      (name . "Copper")
      (symbol . "Cu")
@@ -1363,7 +1363,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Symbol from Latin: cuprum (island of Cyprus famed for its copper mines)."))
-    
+
     (30
      (name . "Zinc")
      (symbol . "Zn")
@@ -1390,7 +1390,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Germany)")
      (discovered-by . "Known to the ancients.")
      (named-after . "German: zink (German for tin)."))
-    
+
     (31
      (name . "Gallium")
      (symbol . "Ga")
@@ -1417,7 +1417,7 @@ Units are also listed here.")
      (discovery-date . "1875 (France)")
      (discovered-by . "Paul Émile Lecoq de Boisbaudran")
      (named-after . "Latin: Gallia (France)."))
-    
+
     (32
      (name . "Germanium")
      (symbol . "Ge")
@@ -1444,7 +1444,7 @@ Units are also listed here.")
      (discovery-date . "1886 (Germany)")
      (discovered-by . "Clemens Winkler")
      (named-after . "Latin: Germania (Germany)."))
-    
+
     (33
      (name . "Arsenic")
      (symbol . "As")
@@ -1471,7 +1471,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Greek: arsenikon; Latin: arsenicum, (both names for yellow pigment)."))
-    
+
     (34
      (name . "Selenium")
      (symbol . "Se")
@@ -1498,7 +1498,7 @@ Units are also listed here.")
      (discovery-date . "1818 (Sweden)")
      (discovered-by . "Jöns Berzelius")
      (named-after . "Greek: selene (moon)."))
-    
+
     (35
      (name . "Bromine")
      (symbol . "Br")
@@ -1525,7 +1525,7 @@ Units are also listed here.")
      (discovery-date . "1826 (France)")
      (discovered-by . "Antoine J. Balard")
      (named-after . "Greek: brômos (stench)."))
-    
+
     (36
      (name . "Krypton")
      (symbol . "Kr")
@@ -1552,7 +1552,7 @@ Units are also listed here.")
      (discovery-date . "1898 (Great Britain)")
      (discovered-by . "Sir William Ramsey, M.W. Travers")
      (named-after . "Greek: kryptos (hidden)."))
-    
+
     (37
      (name . "Rubidium")
      (symbol . "Rb")
@@ -1579,7 +1579,7 @@ Units are also listed here.")
      (discovery-date . "1861 (Germany)")
      (discovered-by . "R. Bunsen, G. Kirchoff")
      (named-after . "Latin: rubidus (deep red); the color its salts impart to flames."))
-    
+
     (38
      (name . "Strontium")
      (symbol . "Sr")
@@ -1606,7 +1606,7 @@ Units are also listed here.")
      (discovery-date . "1790 (Scotland)")
      (discovered-by . "A. Crawford")
      (named-after . "The Scottish town, Strontian."))
-    
+
     (39
      (name . "Yttrium")
      (symbol . "Y")
@@ -1633,7 +1633,7 @@ Units are also listed here.")
      (discovery-date . "1789 (Finland)")
      (discovered-by . "Johann Gadolin")
      (named-after . "The Swedish village, Ytterby, where one of its minerals was first found."))
-    
+
     (40
      (name . "Zirconium")
      (symbol . "Zr")
@@ -1660,7 +1660,7 @@ Units are also listed here.")
      (discovery-date . "1789 (Germany)")
      (discovered-by . "Martin Klaproth")
      (named-after . "The mineral, zircon."))
-    
+
     (41
      (name . "Niobium")
      (symbol . "Nb")
@@ -1687,7 +1687,7 @@ Units are also listed here.")
      (discovery-date . "1801 (England)")
      (discovered-by . "Charles Hatchet")
      (named-after . "Niobe; daughter of the mythical Greek king Tantalus."))
-    
+
     (42
      (name . "Molybdenum")
      (symbol . "Mo")
@@ -1714,7 +1714,7 @@ Units are also listed here.")
      (discovery-date . "1778 (Sweden)")
      (discovered-by . "Carl Wilhelm Scheele")
      (named-after . "Greek: molybdos (lead)."))
-    
+
     (43
      (name . "Technetium")
      (symbol . "Tc")
@@ -1741,7 +1741,7 @@ Units are also listed here.")
      (discovery-date . "1937 (Italy)")
      (discovered-by . "Carlo Perrier, Émillo Segre")
      (named-after . "Greek: technetos (artificial)."))
-    
+
     (44
      (name . "Ruthenium")
      (symbol . "Ru")
@@ -1768,7 +1768,7 @@ Units are also listed here.")
      (discovery-date . "1844 (Russia)")
      (discovered-by . "Karl Klaus")
      (named-after . "Latin: Ruthenia (Russia)."))
-    
+
     (45
      (name . "Rhodium")
      (symbol . "Rh")
@@ -1795,7 +1795,7 @@ Units are also listed here.")
      (discovery-date . "1803 (England)")
      (discovered-by . "William Wollaston")
      (named-after . "Greek: rhodon (rose). Its salts give a rosy solution."))
-    
+
     (46
      (name . "Palladium")
      (symbol . "Pd")
@@ -1822,7 +1822,7 @@ Units are also listed here.")
      (discovery-date . "1803 (England)")
      (discovered-by . "William Wollaston")
      (named-after . "Named after the asteroid, Pallas, discovered in 1803."))
-    
+
     (47
      (name . "Silver")
      (symbol . "Ag")
@@ -1849,7 +1849,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Anglo-Saxon: siolful, (silver); symbol from Latin: argentium."))
-    
+
     (48
      (name . "Cadmium")
      (symbol . "Cd")
@@ -1876,7 +1876,7 @@ Units are also listed here.")
      (discovery-date . "1817 (Germany)")
      (discovered-by . "Fredrich Stromeyer")
      (named-after . "Greek: kadmeia (ancient name for calamine (zinc oxide))."))
-    
+
     (49
      (name . "Indium")
      (symbol . "In")
@@ -1903,7 +1903,7 @@ Units are also listed here.")
      (discovery-date . "1863 (Germany)")
      (discovered-by . "Ferdinand Reich, T. Richter")
      (named-after . "Latin: indicum (color indigo), the color it shows in a spectroscope."))
-    
+
     (50
      (name . "Tin")
      (symbol . "Sn")
@@ -1930,7 +1930,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Named after Etruscan god, Tinia; symbol from Latin: stannum (tin)."))
-    
+
     (51
      (name . "Antimony")
      (symbol . "Sb")
@@ -1957,7 +1957,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Greek: anti and monos (not alone); symbol from mineral stibnite."))
-    
+
     (52
      (name . "Tellurium")
      (symbol . "Te")
@@ -1984,7 +1984,7 @@ Units are also listed here.")
      (discovery-date . "1782 (Romania)")
      (discovered-by . "Franz Müller von Reichenstein")
      (named-after . "Latin: tellus (earth)."))
-    
+
     (53
      (name . "Iodine")
      (symbol . "I")
@@ -2011,7 +2011,7 @@ Units are also listed here.")
      (discovery-date . "1811 (France)")
      (discovered-by . "Bernard Courtois")
      (named-after . "Greek: iôeides (violet colored)."))
-    
+
     (54
      (name . "Xenon")
      (symbol . "Xe")
@@ -2038,7 +2038,7 @@ Units are also listed here.")
      (discovery-date . "1898 (England)")
      (discovered-by . "Sir William Ramsay; M. W. Travers")
      (named-after . "Greek: xenos (strange)."))
-    
+
     (55
      (name . "Cesium")
      (symbol . "Cs")
@@ -2065,7 +2065,7 @@ Units are also listed here.")
      (discovery-date . "1860 (Germany)")
      (discovered-by . "Gustov Kirchoff, Robert Bunsen")
      (named-after . "Latin: coesius (sky blue); for the blue lines of its spectrum."))
-    
+
     (56
      (name . "Barium")
      (symbol . "Ba")
@@ -2092,7 +2092,7 @@ Units are also listed here.")
      (discovery-date . "1808 (England)")
      (discovered-by . "Sir Humphrey Davy")
      (named-after . "Greek: barys (heavy or dense)."))
-    
+
     (57
      (name . "Lanthanum")
      (symbol . "La")
@@ -2119,7 +2119,7 @@ Units are also listed here.")
      (discovery-date . "1839 (Sweden)")
      (discovered-by . "Carl Mosander")
      (named-after . "Greek: lanthanein (to be hidden)."))
-    
+
     (58
      (name . "Cerium")
      (symbol . "Ce")
@@ -2146,7 +2146,7 @@ Units are also listed here.")
      (discovery-date . "1803 (Sweden/Germany)")
      (discovered-by . "W. von Hisinger, J. Berzelius, M. Klaproth")
      (named-after . "Named after the asteroid, Ceres, discovered two years before the element."))
-    
+
     (59
      (name . "Praseodymium")
      (symbol . "Pr")
@@ -2173,7 +2173,7 @@ Units are also listed here.")
      (discovery-date . "1885 (Austria)")
      (discovered-by . "C.F. Aver von Welsbach")
      (named-after . "Greek: prasios and didymos (green twin); from its green salts."))
-    
+
     (60
      (name . "Neodymium")
      (symbol . "Nd")
@@ -2200,7 +2200,7 @@ Units are also listed here.")
      (discovery-date . "1925 (Austria)")
      (discovered-by . "C.F. Aver von Welsbach")
      (named-after . "Greek: neos and didymos (new twin)."))
-    
+
     (61
      (name . "Promethium")
      (symbol . "Pm")
@@ -2227,7 +2227,7 @@ Units are also listed here.")
      (discovery-date . "1945 (United States)")
      (discovered-by . "J.A. Marinsky, L.E. Glendenin, C.D. Coryell")
      (named-after . "Named for the Greek god, Prometheus."))
-    
+
     (62
      (name . "Samarium")
      (symbol . "Sm")
@@ -2254,7 +2254,7 @@ Units are also listed here.")
      (discovery-date . "1879 (France)")
      (discovered-by . "Paul Émile Lecoq de Boisbaudran")
      (named-after . "Named after the mineral samarskite."))
-    
+
     (63
      (name . "Europium")
      (symbol . "Eu")
@@ -2281,7 +2281,7 @@ Units are also listed here.")
      (discovery-date . "1901 (France)")
      (discovered-by . "Eugene Demarçay")
      (named-after . "Named for the continent of Europe."))
-    
+
     (64
      (name . "Gadolinium")
      (symbol . "Gd")
@@ -2308,7 +2308,7 @@ Units are also listed here.")
      (discovery-date . "1880 (Switzerland)")
      (discovered-by . "Jean de Marignac")
      (named-after . "Named after the mineral gadolinite."))
-    
+
     (65
      (name . "Terbium")
      (symbol . "Tb")
@@ -2335,7 +2335,7 @@ Units are also listed here.")
      (discovery-date . "1843 (Sweden)")
      (discovered-by . "Carl Mosander")
      (named-after . "Named after Ytterby, a village in Sweden."))
-    
+
     (66
      (name . "Dysprosium")
      (symbol . "Dy")
@@ -2362,7 +2362,7 @@ Units are also listed here.")
      (discovery-date . "1886 (France)")
      (discovered-by . "Paul Émile Lecoq de Boisbaudran")
      (named-after . "Greek: dysprositos (hard to get at)."))
-    
+
     (67
      (name . "Holmium")
      (symbol . "Ho")
@@ -2389,7 +2389,7 @@ Units are also listed here.")
      (discovery-date . "1878 (Switzerland)")
      (discovered-by . "J.L. Soret")
      (named-after . "Holmia, the Latinized name for Stockholm, Sweden."))
-    
+
     (68
      (name . "Erbium")
      (symbol . "Er")
@@ -2416,7 +2416,7 @@ Units are also listed here.")
      (discovery-date . "1843 (Sweden)")
      (discovered-by . "Carl Mosander")
      (named-after . "Named after the Swedish town, Ytterby."))
-    
+
     (69
      (name . "Thulium")
      (symbol . "Tm")
@@ -2443,7 +2443,7 @@ Units are also listed here.")
      (discovery-date . "1879 (Sweden)")
      (discovered-by . "Per Theodor Cleve")
      (named-after . "Thule, ancient name of Scandinavia."))
-    
+
     (70
      (name . "Ytterbium")
      (symbol . "Yb")
@@ -2470,7 +2470,7 @@ Units are also listed here.")
      (discovery-date . "1878 (Switzerland)")
      (discovered-by . "Jean de Marignac")
      (named-after . "Named for the Swedish village of Ytterby."))
-    
+
     (71
      (name . "Lutetium")
      (symbol . "Lu")
@@ -2497,7 +2497,7 @@ Units are also listed here.")
      (discovery-date . "1907 (France)")
      (discovered-by . "Georges Urbain")
      (named-after . "Named for the ancient name of Paris, Lutecia."))
-    
+
     (72
      (name . "Hafnium")
      (symbol . "Hf")
@@ -2524,7 +2524,7 @@ Units are also listed here.")
      (discovery-date . "1923 (Denmark)")
      (discovered-by . "Dirk Coster, Georg von Hevesy")
      (named-after . "Hafnia, the Latin name of Copenhagen."))
-    
+
     (73
      (name . "Tantalum")
      (symbol . "Ta")
@@ -2551,7 +2551,7 @@ Units are also listed here.")
      (discovery-date . "1802 (Sweden)")
      (discovered-by . "Anders Ekeberg")
      (named-after . "King Tantalus of Greek mythology, father of Niobe."))
-    
+
     (74
      (name . "Tungsten")
      (symbol . "W")
@@ -2578,7 +2578,7 @@ Units are also listed here.")
      (discovery-date . "1783 (Spain)")
      (discovered-by . "Fausto and Juan José de Elhuyar")
      (named-after . "Swedish: tung sten (heavy stone): symbol from its German name wolfram."))
-    
+
     (75
      (name . "Rhenium")
      (symbol . "Re")
@@ -2605,7 +2605,7 @@ Units are also listed here.")
      (discovery-date . "1925 (Germany)")
      (discovered-by . "Walter Noddack, Ida Tacke, Otto Berg")
      (named-after . "Latin: Rhenus, the Rhine River."))
-    
+
     (76
      (name . "Osmium")
      (symbol . "Os")
@@ -2632,7 +2632,7 @@ Units are also listed here.")
      (discovery-date . "1804 (England)")
      (discovered-by . "Smithson Tenant")
      (named-after . "Greek: osme (odor)."))
-    
+
     (77
      (name . "Iridium")
      (symbol . "Ir")
@@ -2659,7 +2659,7 @@ Units are also listed here.")
      (discovery-date . "1804 (England/France)")
      (discovered-by . "S.Tenant, A.F.Fourcory, L.N.Vauquelin, H.V.Collet-Descoltils")
      (named-after . "Latin: iris (rainbow)."))
-    
+
     (78
      (name . "Platinum")
      (symbol . "Pt")
@@ -2686,7 +2686,7 @@ Units are also listed here.")
      (discovery-date . "1735 (Italy)")
      (discovered-by . "Julius Scaliger")
      (named-after . "Spanish: platina (little silver)."))
-    
+
     (79
      (name . "Gold")
      (symbol . "Au")
@@ -2713,7 +2713,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Anglo-Saxon: geolo (yellow); symbol from Latin: aurum (shining dawn)."))
-    
+
     (80
      (name . "Mercury")
      (symbol . "Hg")
@@ -2740,7 +2740,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "The Roman god Mercury; symbol from Latin: hydrargyrus (liquid silver)."))
-    
+
     (81
      (name . "Thallium")
      (symbol . "Tl")
@@ -2767,7 +2767,7 @@ Units are also listed here.")
      (discovery-date . "1861 (England)")
      (discovered-by . "Sir William Crookes")
      (named-after . "Greek: thallos (green twig), for a bright green line in its spectrum."))
-    
+
     (82
      (name . "Lead")
      (symbol . "Pb")
@@ -2794,7 +2794,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "Anglo-Saxon: lead; symbol from Latin: plumbum."))
-    
+
     (83
      (name . "Bismuth")
      (symbol . "Bi")
@@ -2821,7 +2821,7 @@ Units are also listed here.")
      (discovery-date . "n/a (Unknown)")
      (discovered-by . "Known to the ancients.")
      (named-after . "German: bisemutum, (white mass), Now spelled wismut."))
-    
+
     (84
      (name . "Polonium")
      (symbol . "Po")
@@ -2848,7 +2848,7 @@ Units are also listed here.")
      (discovery-date . "1898 (France)")
      (discovered-by . "Pierre and Marie Curie")
      (named-after . "Named for Poland, native country of Marie Curie."))
-    
+
     (85
      (name . "Astatine")
      (symbol . "At")
@@ -2875,7 +2875,7 @@ Units are also listed here.")
      (discovery-date . "1940 (United States)")
      (discovered-by . "D.R.Corson, K.R.MacKenzie, E.Segré")
      (named-after . "Greek: astatos (unstable)."))
-    
+
     (86
      (name . "Radon")
      (symbol . "Rn")
@@ -2902,7 +2902,7 @@ Units are also listed here.")
      (discovery-date . "1898 (Germany)")
      (discovered-by . "Fredrich Ernst Dorn")
      (named-after . "Variation of the name of another element, radium."))
-    
+
     (87
      (name . "Francium")
      (symbol . "Fr")
@@ -2929,7 +2929,7 @@ Units are also listed here.")
      (discovery-date . "1939 (France)")
      (discovered-by . "Marguerite Derey")
      (named-after . "Named for France, the nation of its discovery."))
-    
+
     (88
      (name . "Radium")
      (symbol . "Ra")
@@ -2956,7 +2956,7 @@ Units are also listed here.")
      (discovery-date . "1898 (France)")
      (discovered-by . "Pierre and Marie Curie")
      (named-after . "Latin: radius (ray)."))
-    
+
     (89
      (name . "Actinium")
      (symbol . "Ac")
@@ -2983,7 +2983,7 @@ Units are also listed here.")
      (discovery-date . "1899 (France)")
      (discovered-by . "André Debierne")
      (named-after . "Greek: akis, aktinos (ray)."))
-    
+
     (90
      (name . "Thorium")
      (symbol . "Th")
@@ -3010,7 +3010,7 @@ Units are also listed here.")
      (discovery-date . "1828 (Sweden)")
      (discovered-by . "Jöns Berzelius")
      (named-after . "Named for Thor, Norse god of thunder."))
-    
+
     (91
      (name . "Protactinium")
      (symbol . "Pa")
@@ -3037,7 +3037,7 @@ Units are also listed here.")
      (discovery-date . "1917 (England/France)")
      (discovered-by . "Fredrich Soddy, John Cranston, Otto Hahn, Lise Meitner")
      (named-after . "Greek: proto and actinium (parent of actinium); it forms actinium when it radioactively decays."))
-    
+
     (92
      (name . "Uranium")
      (symbol . "U")
@@ -3064,7 +3064,7 @@ Units are also listed here.")
      (discovery-date . "1789 (Germany)")
      (discovered-by . "Martin Klaproth")
      (named-after . "Named for the planet Uranus."))
-    
+
     (93
      (name . "Neptunium")
      (symbol . "Np")
@@ -3091,7 +3091,7 @@ Units are also listed here.")
      (discovery-date . "1940 (United States)")
      (discovered-by . "E.M. McMillan, P.H. Abelson")
      (named-after . "Named for the planet Neptune."))
-    
+
     (94
      (name . "Plutonium")
      (symbol . "Pu")
@@ -3118,7 +3118,7 @@ Units are also listed here.")
      (discovery-date . "1940 (United States)")
      (discovered-by . "G.T.Seaborg, J.W.Kennedy, E.M.McMillan, A.C.Wohl")
      (named-after . "Named for the planet Pluto."))
-    
+
     (95
      (name . "Americium")
      (symbol . "Am")
@@ -3145,7 +3145,7 @@ Units are also listed here.")
      (discovery-date . "1945 (United States)")
      (discovered-by . "G.T.Seaborg, R.A.James, L.O.Morgan, A.Ghiorso")
      (named-after . "Named for the American continent, by analogy with europium."))
-    
+
     (96
      (name . "Curium")
      (symbol . "Cm")
@@ -3172,7 +3172,7 @@ Units are also listed here.")
      (discovery-date . "1944 (United States)")
      (discovered-by . "G.T.Seaborg, R.A.James, A.Ghiorso")
      (named-after . "Named in honor of Pierre and Marie Curie."))
-    
+
     (97
      (name . "Berkelium")
      (symbol . "Bk")
@@ -3199,7 +3199,7 @@ Units are also listed here.")
      (discovery-date . "1949 (United States)")
      (discovered-by . "G.T.Seaborg, S.G.Tompson, A.Ghiorso")
      (named-after . "Named after Berkeley, California the city of its discovery."))
-    
+
     (98
      (name . "Californium")
      (symbol . "Cf")
@@ -3226,7 +3226,7 @@ Units are also listed here.")
      (discovery-date . "1950 (United States)")
      (discovered-by . "G.T.Seaborg, S.G.Tompson, A.Ghiorso, K.Street Jr.")
      (named-after . "Named after the state and University of California."))
-    
+
     (99
      (name . "Einsteinium")
      (symbol . "Es")
@@ -3253,7 +3253,7 @@ Units are also listed here.")
      (discovery-date . "1952 (United States)")
      (discovered-by . "Argonne, Los Alamos, U of Calif")
      (named-after . "Named in honor of the scientist Albert Einstein."))
-    
+
     (100
      (name . "Fermium")
      (symbol . "Fm")
@@ -3280,7 +3280,7 @@ Units are also listed here.")
      (discovery-date . "1953 (United States)")
      (discovered-by . "Argonne, Los Alamos, U of Calif")
      (named-after . "Named in honor of the scientist Enrico Fermi."))
-    
+
     (101
      (name . "Mendelevium")
      (symbol . "Md")
@@ -3307,7 +3307,7 @@ Units are also listed here.")
      (discovery-date . "1955 (United States)")
      (discovered-by . "G.T.Seaborg, S.G.Tompson, A.Ghiorso, K.Street Jr.")
      (named-after . "Named in honor of the scientist Dmitri Ivanovitch Mendeleyev, who devised the periodic table."))
-    
+
     (102
      (name . "Nobelium")
      (symbol . "No")
@@ -3334,7 +3334,7 @@ Units are also listed here.")
      (discovery-date . "1957 (Sweden)")
      (discovered-by . "Nobel Institute for Physics")
      (named-after . "Named in honor of Alfred Nobel, who invented dynamite and founded Nobel prize."))
-    
+
     (103
      (name . "Lawrencium")
      (symbol . "Lr")
@@ -3361,7 +3361,7 @@ Units are also listed here.")
      (discovery-date . "1961 (United States)")
      (discovered-by . "A.Ghiorso, T.Sikkeland, A.E.Larsh, R.M.Latimer")
      (named-after . "Named in honor of Ernest O. Lawrence, inventor of the cyclotron."))
-    
+
     (104
      (name . "Rutherfordium")
      (symbol . "Rf")
@@ -3388,7 +3388,7 @@ Units are also listed here.")
      (discovery-date . "1969 (United States)")
      (discovered-by . "A. Ghiorso, et al")
      (named-after . "Named in honor of Ernest Rutherford."))
-    
+
     (105
      (name . "Dubnium")
      (symbol . "Db")
@@ -3415,7 +3415,7 @@ Units are also listed here.")
      (discovery-date . "1970 (United States)")
      (discovered-by . "A. Ghiorso, et al")
      (named-after . "The Joint Nuclear Institute at Dubna."))
-    
+
     (106
      (name . "Seaborgium")
      (symbol . "Sg")
@@ -3442,7 +3442,7 @@ Units are also listed here.")
      (discovery-date . "1974 (USSR/United States)")
      (discovered-by . "Soviet Nuclear Research/ U. of Cal at Berkeley")
      (named-after . "Named in honor of Glenn Seaborg, American physical chemist known for research on transuranium elements."))
-    
+
     (107
      (name . "Bohrium")
      (symbol . "Bh")
@@ -3469,7 +3469,7 @@ Units are also listed here.")
      (discovery-date . "1976 (Germany)")
      (discovered-by . "Heavy Ion Research Laboratory (HIRL)")
      (named-after . "Named in honor of Niels Bohr."))
-    
+
     (108
      (name . "Hassium")
      (symbol . "Hs")
@@ -3496,7 +3496,7 @@ Units are also listed here.")
      (discovery-date . "1984 (Germany)")
      (discovered-by . "Heavy Ion Research Laboratory (HIRL)")
      (named-after . "Named in honor of Henri Hess, Swiss born Russian chemist known for work in thermodydamics."))
-    
+
     (109
      (name . "Meitnerium")
      (symbol . "Mt")
@@ -3523,7 +3523,7 @@ Units are also listed here.")
      (discovery-date . "1982 (Germany)")
      (discovered-by . "Heavy Ion Research Laboratory (HIRL)")
      (named-after . "Named in honor of Lise Mietner."))
-    
+
     (110
      (name . "Darmstadtium")
      (symbol . "Ds")
@@ -3550,7 +3550,7 @@ Units are also listed here.")
      (discovery-date . "1994 (Germany)")
      (discovered-by . "GSI (Gesellschaft für Schwerionenforschung mbH, Darmstadt, Germany)")
      (named-after . "Named after Darmstadt, Germany the city of its discovery."))
-    
+
     (111
      (name . "Roentgenium")
      (symbol . "Rg")
@@ -3577,7 +3577,7 @@ Units are also listed here.")
      (discovery-date . "1994 (Germany)")
      (discovered-by . "Heavy Ion Research Laboratory (HIRL)")
      (named-after . "Wilhelm Conrad Roentgen discovered X-rays in 1895."))
-    
+
     (112
      (name . "Copernicium")
      (symbol . "Cn")
@@ -3604,7 +3604,7 @@ Units are also listed here.")
      (discovery-date . "1996 (Germany)")
      (discovered-by . "n/a")
      (named-after . "In honour of scientist and astronomer Nicolaus Copernicus (1473-1543)."))
-    
+
     (113
      (name . "Nihonium")
      (symbol . "Nh")
@@ -3631,7 +3631,7 @@ Units are also listed here.")
      (discovery-date . "2003")
      (discovered-by . "n/a")
      (named-after . "Nihon is one of the two ways to say «Japan» in Japanese."))
-    
+
     (114
      (name . "Flerovium")
      (symbol . "Fl")
@@ -3658,7 +3658,7 @@ Units are also listed here.")
      (discovery-date . "1999")
      (discovered-by . "n/a")
      (named-after . "Georgiy N. Flerov (1913-1990) was an eminent physicist who discovered the spontaneous fission of uranium."))
-    
+
     (115
      (name . "Moscovium")
      (symbol . "Mc")
@@ -3685,7 +3685,7 @@ Units are also listed here.")
      (discovery-date . "2003")
      (discovered-by . "n/a")
      (named-after . "Honoring Moscow region of Dubna, Russia."))
-    
+
     (116
      (name . "Livermorium")
      (symbol . "Lv")
@@ -3712,7 +3712,7 @@ Units are also listed here.")
      (discovery-date . "1999")
      (discovered-by . "n/a")
      (named-after . "The Lawrence Livermore National Laboratory, California, USA."))
-    
+
     (117
      (name . "Tennessine")
      (symbol . "Ts")
@@ -3739,7 +3739,7 @@ Units are also listed here.")
      (discovery-date . "2010")
      (discovered-by . "n/a")
      (named-after . "Tennessee, USA."))
-    
+
     (118
      (name . "Oganesson")
      (symbol . "Og")
@@ -4245,13 +4245,6 @@ Each car is an atomic number and each cdr a list of properties.")
 Each car is an atomic number and each cdr a list of isotope properties
 \(nucleons, nuclear mass and abundance).")
 
-;; XEmacs support
-
-(defconst eperiodic-xemacs-p
-  (or (featurep 'xemacs)
-      (string-match "XEmacs\\|Lucid" (emacs-version)))
-  "True if we are using eperiodic under XEmacs.")
-
 ;; Other version-dependent configuration
 
 (defalias 'eperiodic-line-beginning-position
@@ -4273,10 +4266,6 @@ Each car is an atomic number and each cdr a list of isotope properties
    ((and (require 'dired)
          (fboundp 'dired-replace-in-string))
     (defalias 'eperiodic-replace-regexp-in-string 'dired-replace-in-string))
-   ;; XEmacs
-   ((fboundp 'replace-in-string)
-    (defun eperiodic-replace-regexp-in-string (regexp rep string)
-      (replace-in-string string regexp rep)))
    ;; Bail out
    (t
     (error "No replace in string function found"))))
@@ -4421,10 +4410,6 @@ Any previous buffer contents are deleted."
           (cl-loop for i from 1 to (/ (- ne-posn (current-column))
                                    (+ display-width separation))
                 do
-		;; Need the following in XEmacs to avoid some
-		;; weirdness associated with text properties.
-		(when eperiodic-xemacs-p
-		  (goto-char (1- he-posn)))
                 (insert string)))))
     (goto-char (point-max))
     (eperiodic-insert-key))
@@ -5057,7 +5042,7 @@ value (MINIMUM-VALUE)"
   (eperiodic-set-current-property-values)
   (setq eperiodic-current-temperature (default-value 'eperiodic-current-temperature)
         eperiodic-current-year (default-value 'eperiodic-current-year))
-  (eperiodic-display-preserve-point))    
+  (eperiodic-display-preserve-point))
 
 (defun eperiodic-next-colour-scheme ()
   "Cycle forward through elements of `eperiodic-colour-element-functions'."
@@ -5223,10 +5208,6 @@ the cursor position.
   (setq major-mode 'eperiodic-mode)
   (setq mode-name "EPeriodic")
   (setq buffer-undo-list t)
-  ;; XEmacs
-  (when (and (fboundp 'easy-menu-add)
-             eperiodic-menu)
-    (easy-menu-add eperiodic-menu))
   (when (fboundp 'make-local-hook)
     (make-local-hook 'post-command-hook))
   (add-hook 'post-command-hook 'eperiodic-update-element-info t t)
