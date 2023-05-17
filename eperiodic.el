@@ -4380,7 +4380,7 @@ Any previous buffer contents are deleted."
         (insert "\n"))
       (setq order (cdr order)))
     ;; Insert header
-    (let* ((header "Periodic Table of the Elements")
+    (let* ((header "PERIODIC CHART OF THE ELEMENTS")
            (padding (/ (- max-width (length header)) 2)))
       (goto-char (point-min))
       (setq padding (make-string padding ?\ ))
