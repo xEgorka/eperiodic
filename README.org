@@ -1,4 +1,1 @@
-#+title: Periodic table for Emacs
-#+author: Egor Maltsev
-
 [[eperiodic.png]]
