@@ -43,7 +43,7 @@
 (defgroup eperiodic nil
   "Periodic table for Emacs."
   :group 'tools
-  :link '(url-link "http://www.tc.bham.ac.uk/~matt/published/Public/EperiodicEl.html"))
+  :link '(url-link ""))
 
 (defcustom eperiodic-display-type 'conventional
   "*Order the orbitals are shown in.
